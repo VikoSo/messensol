@@ -100,3 +100,6 @@ For partnerships, funding, or acquisition inquiries:
 This repository serves as a **public showcase** for the **MessenSOL project**.  
 All production codebases remain private.  
 Logo, documentation, and assets © **MessenSOL 2025** – All rights reserved.
+<!-- Google Site Verification -->
+<meta name="google-site-verification" content="MtkhfrVzTYONgYwUqHrZw4gPpxLBbsUUcMc4Sln4slk" />
+
