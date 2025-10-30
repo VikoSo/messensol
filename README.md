@@ -36,7 +36,7 @@ Traditional messengers rely on centralized servers and user identities.
 |-------|---------------|
 | **Frontend** | React · TypeScript · Vite |
 | **Backend** | Node.js · Express · WebSocket |
-| **Database** | MongoDB Atlas |
+| **Database** | Neon |
 | **Blockchain** | Solana Web3.js · SPL Token |
 | **Deployment** | Frontend → Vercel · Backend → Render |
 | **Storage** | AWS S3 (Encrypted, Off-Chain) |
